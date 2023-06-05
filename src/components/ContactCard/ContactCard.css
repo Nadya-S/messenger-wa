@@ -1,0 +1,19 @@
+.contact-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  list-style-type: none;
+  height: 73px;
+  border-bottom: 1px solid #e9edef;
+}
+
+.contact-card__number {
+  margin-bottom: 10px;
+}
+
+.contact-card__last-message {
+  color: #667781;
+  margin-left: 15px;
+  font-size: 14px;
+}

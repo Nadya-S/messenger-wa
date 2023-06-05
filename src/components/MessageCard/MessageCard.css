@@ -1,0 +1,26 @@
+.message-card {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  min-height: 32px;
+  width: fit-content;
+  background-color: #fff;
+  border-radius: 8px;
+  margin-bottom: 12px;
+}
+
+.message-card_my-card {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  min-height: 32px;
+  width: fit-content;
+  background-color: #fff;
+  border-radius: 8px;
+  margin: 0 0 12px auto;
+}
+
+.message-card__text {
+  width: fit-content;
+  margin: 10px;
+}
