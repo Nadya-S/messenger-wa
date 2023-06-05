@@ -33,6 +33,7 @@
   background-color: #efeae2;
   font-size: 14px;
   overflow-y: auto;
+  justify-content: end;
 }
 
 .chat-window__form {
